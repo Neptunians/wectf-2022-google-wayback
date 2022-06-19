@@ -1,0 +1,16 @@
+Google Wayback
+A copycat site of Google in 2001.
+
+Hint: Do you know Google used to have XSS?
+Submit Your Hacking Site here: https://uv.ctf.so
+
+
+Host 1 (Virginia, US): google.us.ctf.so
+Host 2 (Finland): google.eu.ctf.so
+Host 3 (Tokyo, Japan): google.jp.ctf.so
+
+
+Source Code
+
+
+easy / 25 solves / 338 pts
